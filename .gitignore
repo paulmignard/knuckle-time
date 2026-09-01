@@ -1,0 +1,22 @@
+# macOS
+.DS_Store
+
+# Xcode
+xcuserdata/
+DerivedData/
+*.xcuserstate
+
+# .NET
+bin/
+obj/
+*.db
+*.db-shm
+*.db-wal
+
+# Node
+node_modules/
+
+# Local tooling
+.claude/
+.env
+.env.*
